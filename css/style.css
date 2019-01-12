@@ -1,1 +1,21 @@
+.inline {
+	display:inline-block;
+	vertical-align: top;
+	height: 100px;
+}
 
+li {
+	list-style-type: none; /* Убираем маркеры */
+}
+
+.top {
+	vertical-align: top;
+	height: 50px;
+}
+
+.header {
+	//vertical-align: top;
+	font-size: 30px;
+	font-weight: bold;
+	height: 40px;
+}
